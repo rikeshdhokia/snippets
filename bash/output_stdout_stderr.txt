@@ -1,0 +1,1 @@
+direct STDOUT to STDERR and then to file
